@@ -90,4 +90,3 @@ Professor’s Assistant is designed as a *lightweight, privacy-first, entirely c
 
 ---
 
-## 🏗 Recommended Folder Structure
